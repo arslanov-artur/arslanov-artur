@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" /> Hi, I'm Arthur</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" /> Hi, I'm Artur</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arthur-arslanov/">5+ years</a> of experience. Learning new things 💡
+<a href="https://www.linkedin.com/in/artur-arslanov/">5+ years</a> of experience. Learning new things 💡
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-arslanov&background=FFFFFF&dates=000000&hide_border=true&currStreakNum=black" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslanov-artur&background=FFFFFF&dates=000000&hide_border=true&currStreakNum=black" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthur-arslanov&show_icons=true&hide_border=true&title_color=000&icon_color=f29132" alt="Stats 2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arslanov-artur&show_icons=true&hide_border=true&title_color=000&icon_color=f29132" alt="Stats 2" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arthur-arslanov&column=4" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arslanov-artur&column=4" alt="Trophy" />
 </p>
 
 <p align="center">🕶 I’m looking to collaborate on <b>anything free and open source</b></p>
